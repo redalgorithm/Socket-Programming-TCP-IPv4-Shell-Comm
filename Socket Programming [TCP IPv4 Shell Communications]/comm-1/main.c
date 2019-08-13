@@ -1,3 +1,6 @@
+//Parent program
+//Description in README.md
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>
