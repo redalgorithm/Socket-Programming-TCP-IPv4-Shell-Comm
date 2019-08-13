@@ -1,4 +1,6 @@
-Created by Shaanan Curtis 2019.
+#Part1 - Pipe Communications Between Parent and Child Process
+Author: Shaanan Curtis
+Date:   August 2019
 
 DESCRIPTION ------------------------------------------------------------
 This is part 1 of a 2-part project representing a multi-process 
