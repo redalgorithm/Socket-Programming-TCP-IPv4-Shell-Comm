@@ -1,4 +1,4 @@
-#Comm-1
+#Comm-1 Makefile
 #Description in README.md
 
 lab1:	main.c
