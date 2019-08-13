@@ -1,4 +1,6 @@
-Created by Shaanan Curtis 2019.
+#Part2 - Socket Communications Between Client and Server Program (a tale of two shells)
+Author: Shaanan Curtis
+Date:   August 2019
 
 DESCRIPTION ------------------------------------------------------------
 Included in this project are two C source files, representing the
