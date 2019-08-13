@@ -1,5 +1,5 @@
-#NAME:  Shaanan Curtis
-#EMAIL: shaanancurtis@ieee.org
+#Comm-2 Makefile
+#Description in README.md
 
 default:	lab2-server	lab2-client
 
