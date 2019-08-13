@@ -1,5 +1,5 @@
-#NAME:  Shaanan Curtis
-#EMAIL: shaanancurtis@ieee.org
+#Comm-1
+#Description in README.md
 
 lab1:	main.c
 		gcc -g -Wall -Wextra main.c -o lab1
